@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2350ea43-de2c-4365-857d-4f61050104e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/LivreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/entities/Compo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/entities/Emprunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/entities/Livre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/ConnexionJpa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/digi/m052024/ConnexionJpa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fr/digi/m052024/ConnexionJpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/digi/m052024/ConnexionJpa.class" afterDir="false" />
+    <list default="true" id="2350ea43-de2c-4365-857d-4f61050104e8" name="Changes" comment="demo-jpa-tp02">
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +75,24 @@
       <option name="presentableId" value="Default" />
       <updated>1722432206168</updated>
       <workItem from="1722432207566" duration="7338000" />
-      <workItem from="1722498004102" duration="5448000" />
+      <workItem from="1722498004102" duration="5765000" />
     </task>
+    <task id="LOCAL-00001" summary="demo-jpa-tp02">
+      <option name="closed" value="true" />
+      <created>1722503810763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722503810763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo-jpa-tp02" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo-jpa-tp02" />
   </component>
 </project>
